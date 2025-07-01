@@ -40,25 +40,27 @@
     "url": "https://ideas.ds-wizard.org",
     "icon": "https://icons.duckduckgo.com/ip3/ideas.ds-wizard.org.ico",
     "slug": "ideas-ds-wizard-org",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1041,
     "timeDay": 1162,
     "timeWeek": 1041,
     "timeMonth": 1041,
     "timeYear": 1041,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 1
+    }
   },
   {
     "name": "localize.ds-wizard.org",
     "url": "https://localize.ds-wizard.org",
     "icon": "https://icons.duckduckgo.com/ip3/localize.ds-wizard.org.ico",
     "slug": "localize-ds-wizard-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 1271,
     "timeMonth": 1271,
     "timeYear": 1271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   },
   {
     "name": "changelog.ds-wizard.org",
