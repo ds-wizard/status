@@ -40,19 +40,19 @@
     "url": "https://ideas.ds-wizard.org",
     "icon": "https://icons.duckduckgo.com/ip3/ideas.ds-wizard.org.ico",
     "slug": "ideas-ds-wizard-org",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1041,
-    "timeDay": 1162,
-    "timeWeek": 1041,
-    "timeMonth": 1041,
-    "timeYear": 1041,
+    "status": "up",
+    "uptime": "96.94%",
+    "uptimeDay": "79.62%",
+    "uptimeWeek": "96.94%",
+    "uptimeMonth": "96.94%",
+    "uptimeYear": "96.94%",
+    "time": 1056,
+    "timeDay": 1172,
+    "timeWeek": 1056,
+    "timeMonth": 1056,
+    "timeYear": 1056,
     "dailyMinutesDown": {
-      "2025-07-01": 1
+      "2025-07-01": 293
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://localize.ds-wizard.org",
     "icon": "https://icons.duckduckgo.com/ip3/localize.ds-wizard.org.ico",
     "slug": "localize-ds-wizard-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1271,
-    "timeDay": 1435,
-    "timeWeek": 1271,
-    "timeMonth": 1271,
-    "timeYear": 1271,
+    "status": "up",
+    "uptime": "96.94%",
+    "uptimeDay": "79.66%",
+    "uptimeWeek": "96.94%",
+    "uptimeMonth": "96.94%",
+    "uptimeYear": "96.94%",
+    "time": 1247,
+    "timeDay": 1246,
+    "timeWeek": 1247,
+    "timeMonth": 1247,
+    "timeYear": 1247,
     "dailyMinutesDown": {
-      "2025-07-01": 0
+      "2025-07-01": 293
     }
   },
   {
