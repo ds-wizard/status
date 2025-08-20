@@ -60,18 +60,19 @@
     "url": "https://localize.ds-wizard.org",
     "icon": "https://icons.duckduckgo.com/ip3/localize.ds-wizard.org.ico",
     "slug": "localize-ds-wizard-org",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "99.45%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "99.44%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "99.63%",
+    "uptimeYear": "99.64%",
     "time": 1195,
     "timeDay": 1164,
     "timeWeek": 1087,
     "timeMonth": 1188,
     "timeYear": 1195,
     "dailyMinutesDown": {
+      "2025-08-20": 0,
       "2025-08-19": 8,
       "2025-07-01": 293
     }
