@@ -10,6 +10,8 @@ sites:
     url: https://ideas.ds-wizard.org
   - name: localize.ds-wizard.org
     url: https://localize.ds-wizard.org
+  - name: registry.ds-wizard.org
+    url: https://registry.ds-wizard.org
   - name: changelog.ds-wizard.org
     url: https://changelog.ds-wizard.org
 
