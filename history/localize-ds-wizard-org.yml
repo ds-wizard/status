@@ -1,7 +1,7 @@
 url: https://localize.ds-wizard.org
-status: up
-code: 200
-responseTime: 1193
-lastUpdated: 2026-08-18T23:13:33.084Z
+status: down
+code: 502
+responseTime: 656
+lastUpdated: 2026-08-19T11:52:54.927Z
 startTime: 2025-06-24T14:36:25.959Z
 generator: Upptime <https://github.com/upptime/upptime>
